@@ -7,4 +7,15 @@ function openR(){transition.style.display='grid';setTimeout(()=>{transition.styl
 back.onclick=()=>{member.classList.remove('active');archive.classList.add('active');content.hidden=true;scrollTo(0,0)};enter.onclick=()=>{content.hidden=false;content.scrollIntoView({behavior:'smooth'})};
 CATS.forEach(c=>{let n=ITEMS.filter(x=>x.cat===c[0]).length,d=document.createElement('button');d.className='cat';d.innerHTML=`<i>${c[1]}</i><b>${c[3]}</b><small>${c[2]}</small><span>${n} ${n===1?'MEMORY':'MEMORIES'}</span>`;d.onclick=()=>render(c);cats.append(d)});
 function render(c){title.textContent=c[3];kick.textContent=c[2];let a=ITEMS.filter(x=>x.cat===c[0]);count.textContent=`${a.length} ${a.length===1?'memory':'memories'}`;photos.innerHTML='';if(!a.length){photos.innerHTML='<div class="empty">아직 기록되지 않은 페이지.<br><small>이미지가 추가되면 이곳에 차곡차곡 쌓입니다.</small></div>';return}a.forEach((x,i)=>{let d=document.createElement('article');d.className='memory m'+(i%5);d.innerHTML=`<img loading="lazy" src="${x.src}"><h4>${x.title}</h4><p>${x.memo}</p><time>${x.date}</time>`;d.onclick=()=>show(x);photos.append(d)});document.querySelector('.ghead').scrollIntoView({behavior:'smooth'})}
-function show(x){lbimg.src=x.src;lbdate.textContent=x.date;lbtitle.textContent=x.title;lbmemo.textContent=x.memo;lightbox.classList.add('show')}close.onclick=()=>lightbox.classList.remove('show');lightbox.onclick=e=>{if(e.target===lightbox)lightbox.classList.remove('show')};render(CATS[0]);
+function show(x){lbimg.src=x.src;lbdate.textContent=x.date;lbtitle.textContent=x.title;lbmemo.textContent=x.memo;lightbox.classList.add('show')}const closeLightbox=document.getElementById('close');
+closeLightbox.addEventListener('click',(e)=>{
+  e.stopPropagation();
+  lightbox.classList.remove('show');
+});
+lightbox.addEventListener('click',(e)=>{
+  if(e.target===lightbox) lightbox.classList.remove('show');
+});
+document.addEventListener('keydown',(e)=>{
+  if(e.key==='Escape' && lightbox.classList.contains('show')) lightbox.classList.remove('show');
+});
+render(CATS[0]);
