@@ -1,0 +1,37 @@
+{
+  "members": {
+    "ruchel": {
+      "display_name": "루첼",
+      "categories": {
+        "anniversary": [],
+        "maid": [],
+        "game": [],
+        "pokemon": [],
+        "fanart": [],
+        "daily": [],
+        "special": [],
+        "etc": []
+      }
+    },
+    "seolhong": {
+      "display_name": "설홍",
+      "status": "preparing"
+    },
+    "yeowuyeon": {
+      "display_name": "여우연",
+      "status": "preparing"
+    },
+    "eri": {
+      "display_name": "최애리",
+      "status": "preparing"
+    },
+    "nunyo": {
+      "display_name": "눈요",
+      "status": "preparing"
+    },
+    "nano": {
+      "display_name": "나노",
+      "status": "preparing"
+    }
+  }
+}
