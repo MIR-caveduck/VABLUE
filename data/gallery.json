@@ -1,48 +1,125 @@
 {
   "members": [
-    {
-      "order": 1,
-      "name": "최애리",
-      "oshi": "🍒",
-      "open": false
-    },
-    {
-      "order": 2,
-      "name": "눈요",
-      "oshi": "❄️🐇",
-      "open": false
-    },
-    {
-      "order": 3,
-      "name": "여우연",
-      "oshi": "💎🦊",
-      "open": false
-    },
-    {
-      "order": 4,
-      "name": "설홍",
-      "oshi": "🌺",
-      "open": false
-    },
-    {
-      "order": 5,
-      "name": "나노",
-      "oshi": "✖️🖤",
-      "open": false
-    },
-    {
-      "order": 6,
-      "name": "루첼",
-      "oshi": "💀🍓",
-      "open": true
-    }
+    [
+      "최애리",
+      "CHOI ERI",
+      "🍒",
+      "#AB3E1A",
+      "#D2B595"
+    ],
+    [
+      "눈요",
+      "NUNYO",
+      "❄️🐇",
+      "#F0FDFC",
+      "#77A0FD"
+    ],
+    [
+      "여우연",
+      "YEO WOOYEON",
+      "💎🦊",
+      "#C9DFEA",
+      "#F0F8FD"
+    ],
+    [
+      "설홍",
+      "SEOLHONG",
+      "🌺",
+      "#B64659",
+      "#FF92A7"
+    ],
+    [
+      "나노",
+      "NANO",
+      "✖️🖤",
+      "#E06064",
+      "#373543"
+    ],
+    [
+      "루첼",
+      "RUCHEL",
+      "💀🍓",
+      "#A3233E",
+      "#272332"
+    ]
   ],
-  "ruchel": {
-    "debut": "2025.09.07",
-    "hero": "images/ruchel/ruchel-hero.webp",
-    "maid_memory": {
-      "image": "images/ruchel/maid-cafe.webp",
-      "memo": "처음으로 직접 보러 갔던 날."
+  "items": [
+    {
+      "cat": "species",
+      "title": "설표 루첼",
+      "src": "images/ruchel/species/01.webp",
+      "memo": "설원에서도 새침한 건 그대로.",
+      "date": "2026.09.11"
+    },
+    {
+      "cat": "species",
+      "title": "브라키오사우르스 루첼",
+      "src": "images/ruchel/species/02.webp",
+      "memo": "목이 길어져도 루첼은 루첼.",
+      "date": "2026.09.11"
+    },
+    {
+      "cat": "species",
+      "title": "햄스터 루첼",
+      "src": "images/ruchel/species/03.webp",
+      "memo": "작고 말랑한 부족장님.",
+      "date": "2026.09.11"
+    },
+    {
+      "cat": "species",
+      "title": "고양이 루첼",
+      "src": "images/ruchel/species/04.webp",
+      "memo": "사랑받는 게 당연한 고양이.",
+      "date": "2026.09.11"
+    },
+    {
+      "cat": "species",
+      "title": "루돌프 루첼",
+      "src": "images/ruchel/species/05.webp",
+      "memo": "올겨울도 길 잃을 걱정은 없겠다.",
+      "date": "2026.09.11"
+    },
+    {
+      "cat": "jobs",
+      "title": "골골이호 선장 루첼",
+      "src": "images/ruchel/jobs/01.webp",
+      "memo": "오늘도 골골이호는 순항 중.",
+      "date": "2026.09.11"
+    },
+    {
+      "cat": "jobs",
+      "title": "해군제독 루첼",
+      "src": "images/ruchel/jobs/02.webp",
+      "memo": "작아도 계급은 제독입니다.",
+      "date": "2026.09.11"
+    },
+    {
+      "cat": "jobs",
+      "title": "골골이호 선원 루첼",
+      "src": "images/ruchel/jobs/03.webp",
+      "memo": "오늘도 출항 준비 완료.",
+      "date": "2026.09.11"
+    },
+    {
+      "cat": "jobs",
+      "title": "무희 루첼",
+      "src": "images/ruchel/jobs/04.webp",
+      "memo": "한 번쯤 보고 싶었던 무대 위 루첼.",
+      "date": "2026.09.11"
+    },
+    {
+      "cat": "jobs",
+      "title": "루첼모음",
+      "src": "images/ruchel/jobs/05.webp",
+      "memo": "한 장에 모아둔 여러 모습의 루첼.",
+      "date": "2026.09.11"
+    },
+    {
+      "cat": "anniversary",
+      "title": "1주년 메이드 카페",
+      "src": "images/ruchel/maid-cafe.webp",
+      "memo": "처음으로 직접 보러 갔던 날.",
+      "date": "2026.09"
     }
-  }
+  ]
 }
