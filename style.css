@@ -5,3 +5,73 @@
 #member .copy button{background:linear-gradient(135deg,var(--member-primary),var(--member-secondary))}
 #member .cat:hover{border-color:var(--member-primary)}
 #member .ghead small,#member .copy small{color:var(--member-primary)}
+
+/* v9 readability + member hero fixes */
+/* Keep book titles readable regardless of each personal-color cover. */
+.album.open::before{
+  content:"";
+  position:absolute;
+  z-index:0;
+  left:0;right:0;bottom:0;
+  height:48%;
+  background:linear-gradient(to top,rgba(12,10,15,.62),rgba(12,10,15,.22) 55%,transparent);
+  pointer-events:none;
+}
+.album.open h3{
+  color:#fffafc;
+  text-shadow:0 2px 10px rgba(0,0,0,.55);
+}
+.album.open em{
+  color:rgba(255,250,252,.68);
+  text-shadow:0 1px 7px rgba(0,0,0,.45);
+}
+.album.open .state{
+  color:rgba(255,250,252,.8);
+  text-shadow:0 1px 8px rgba(0,0,0,.52);
+}
+.album.open .num{
+  color:rgba(255,255,255,.62);
+  text-shadow:0 1px 8px rgba(0,0,0,.32);
+}
+
+/* Main album title stays neutral and readable for every member. */
+#member .copy h2{
+  color:#2f2932 !important;
+}
+
+/* Keep hero artwork clean and make failures visually obvious only if a URL is truly missing. */
+#memberHeroImage{
+  display:block;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  object-position:center top;
+  background:#ece5df;
+}
+
+/* v10: universal bookshelf title readability + neutral hero titles */
+.album h3{
+  color:#fffdfd !important;
+  text-shadow:
+    0 1px 2px rgba(0,0,0,.95),
+    0 0 7px rgba(0,0,0,.82),
+    0 0 14px rgba(0,0,0,.45) !important;
+  -webkit-text-stroke:.35px rgba(20,17,22,.78);
+}
+.album em{
+  color:rgba(255,255,255,.82) !important;
+  text-shadow:0 1px 3px rgba(0,0,0,.92),0 0 7px rgba(0,0,0,.65) !important;
+}
+.album .state{
+  color:rgba(255,255,255,.78) !important;
+  text-shadow:0 1px 3px rgba(0,0,0,.92),0 0 7px rgba(0,0,0,.62) !important;
+}
+
+/* Never tint the large member name with the member personal color. */
+#memberTitle,
+#member .copy h2{
+  color:#262129 !important;
+  -webkit-text-fill-color:#262129 !important;
+  -webkit-text-stroke:0 !important;
+  text-shadow:none !important;
+}

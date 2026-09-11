@@ -1,9 +1,9 @@
 const MEMBERS=[
 {id:"eri",name:"최애리",en:"CHOI ERI",mark:"🍒",p:"#AB3E1A",s:"#D2B595",open:false},
 {id:"nunyo",name:"눈요",en:"NUNYO",mark:"❄️🐇",p:"#F0FDFC",s:"#77A0FD",open:false},
-{id:"yeowuyeon",name:"여우연",en:"YEO WOOYEON",mark:"💎🦊",p:"#C9DFEA",s:"#F0F8FD",open:true,hero:"images/yeowuyeon/hero.webp",date:"VABLUE ACADEMY",quote:"“산과 계절, 그리고 너. 항상 여기 있어.”"},
+{id:"yeowuyeon",name:"여우연",en:"YEO WOOYEON",mark:"💎🦊",p:"#C9DFEA",s:"#F0F8FD",open:true,hero:"images/yeowuyeon/hero-v10.webp",date:"VABLUE ACADEMY",quote:"“산과 계절, 그리고 너. 항상 여기 있어.”"},
 {id:"seolhong",name:"설홍",en:"SEOLHONG",mark:"🌺",p:"#B64659",s:"#FF92A7",open:false},
-{id:"nano",name:"나노",en:"NANO",mark:"✖️🖤",p:"#E06064",s:"#373543",open:true,hero:"images/nano/hero.webp",date:"2025.09.06 —",quote:"“달콤한 유혹은, 언제나 너로부터.”"},
+{id:"nano",name:"나노",en:"NANO",mark:"✖️🖤",p:"#E06064",s:"#373543",open:true,hero:"images/nano/hero-v10.webp",date:"2025.09.06 —",quote:"“달콤한 유혹은, 언제나 너로부터.”"},
 {id:"ruchel",name:"루첼",en:"RUCHEL",mark:"💀🍓",p:"#A3233E",s:"#272332",open:true,hero:"images/ruchel/ruchel-hero.webp",date:"2025.09.07 —",quote:"“기억하고 싶은 장면들을 한 권에.”"}
 ];
 
@@ -55,6 +55,9 @@ function applyMember(m,index){
   document.documentElement.style.setProperty("--member-secondary",m.s);
   albumNumber.textContent=`MEMORY ALBUM · ${String(index+1).padStart(2,"0")}`;
   memberTitle.textContent=m.en;
+  memberTitle.style.color="#262129";
+  memberTitle.style.webkitTextFillColor="#262129";
+  memberTitle.style.textShadow="none";
   memberDate.textContent=m.date||"VABLUE MEMORY ARCHIVE";
   memberQuote.textContent=m.quote||"“기억하고 싶은 장면들을 한 권에.”";
   memberHeroImage.src=m.hero;
