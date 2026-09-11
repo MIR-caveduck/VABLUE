@@ -192,7 +192,7 @@
       "date": "2026.09"
     }
   ],
-  "version": 4,
+  "version": 6,
   "updated": "2026.09.11",
   "categories": {
     "ruchel": {
@@ -226,5 +226,15 @@
     "special": {
       "count": 0
     }
+  },
+  "active_members": [
+    "yeowuyeon",
+    "nano",
+    "ruchel"
+  ],
+  "member_heroes": {
+    "yeowuyeon": "images/yeowuyeon/hero.webp",
+    "nano": "images/nano/hero.webp",
+    "ruchel": "images/ruchel/ruchel-hero.webp"
   }
 }
