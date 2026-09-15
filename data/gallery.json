@@ -239,9 +239,198 @@
       "src": "images/ruchel/ruchel/09-singing-practice.webp",
       "memo": "한 소절씩 맞춰 가는 동안, 옆에서는 골골송 코러스가 함께한다.",
       "date": "2026.09.15"
+    },
+    {
+      "cat": "eri",
+      "title": "붉은 달 아래 고딕 뱀파이어 수녀",
+      "src": "images/eri/main-v12/01.webp",
+      "memo": "붉은 달 아래, 성스러움과 위험함이 묘하게 겹친 밤.",
+      "date": "2026.09.15"
+    },
+    {
+      "cat": "eri",
+      "title": "붉은 달 아래 날개 연습 교실",
+      "src": "images/eri/main-v12/02.webp",
+      "memo": "아직 서툰 날갯짓도 애리답게 우아하게.",
+      "date": "2026.09.15"
+    },
+    {
+      "cat": "eri",
+      "title": "비밀스러운 성당의 고해성사",
+      "src": "images/eri/main-v12/03.webp",
+      "memo": "조용한 성당 안, 오늘의 비밀은 여기까지만.",
+      "date": "2026.09.15"
+    },
+    {
+      "cat": "eri",
+      "title": "최애리의 네온 고딕 아이돌 콘서트",
+      "src": "images/eri/main-v12/04.webp",
+      "memo": "네온이 번지는 무대 위, 오늘만큼은 시선이 전부 애리에게.",
+      "date": "2026.09.15"
+    },
+    {
+      "cat": "nunyo",
+      "title": "겨울 아이스크림을 고르는 토끼소녀",
+      "src": "images/nunyo/main-v12/01.webp",
+      "memo": "추워도 아이스크림은 못 참지. 고민은 맛을 고를 때뿐.",
+      "date": "2026.09.15"
+    },
+    {
+      "cat": "nunyo",
+      "title": "눈 내리는 창가의 토끼 친구",
+      "src": "images/nunyo/main-v12/02.webp",
+      "memo": "창밖의 눈을 바라보며 아랑과 나란히 보내는 시간.",
+      "date": "2026.09.15"
+    },
+    {
+      "cat": "nunyo",
+      "title": "눈토끼와 함께한 겨울날",
+      "src": "images/nunyo/main-v12/03.webp",
+      "memo": "눈으로 만든 작은 친구와 보내는 새하얀 하루.",
+      "date": "2026.09.15"
+    },
+    {
+      "cat": "nunyo",
+      "title": "복실복실 아랑이 케어 타임",
+      "src": "images/nunyo/main-v12/04.webp",
+      "memo": "빗질 한 번에 두 배로 복슬해진 아랑.",
+      "date": "2026.09.15"
+    },
+    {
+      "cat": "nunyo",
+      "title": "비 오는 날의 토끼 친구들",
+      "src": "images/nunyo/main-v12/05.webp",
+      "memo": "처음 보는 빗방울도 친구들과 함께라면 신기한 구경거리.",
+      "date": "2026.09.15"
+    },
+    {
+      "cat": "nunyo",
+      "title": "토끼 굿즈 천국의 설렘간식",
+      "src": "images/nunyo/main-v12/06.webp",
+      "memo": "어딜 봐도 토끼뿐. 눈요에게는 천국 같은 하루.",
+      "date": "2026.09.15"
+    },
+    {
+      "cat": "nunyo",
+      "title": "토끼 테마의 겨울 게이밍 룸",
+      "src": "images/nunyo/main-v12/07.webp",
+      "memo": "폭신한 토끼방에서도 게임만큼은 진심.",
+      "date": "2026.09.15"
+    },
+    {
+      "cat": "nunyo",
+      "title": "포근한 겨울 아침, 5분만 더",
+      "src": "images/nunyo/main-v12/08.webp",
+      "memo": "이불 밖은 아직 너무 추워. 정말 딱 5분만 더.",
+      "date": "2026.09.15"
+    },
+    {
+      "cat": "nunyo",
+      "title": "포근한 겨울 코코아 시간",
+      "src": "images/nunyo/main-v12/09.webp",
+      "memo": "두 손 가득 따뜻한 코코아, 겨울엔 이 정도면 충분해.",
+      "date": "2026.09.15"
+    },
+    {
+      "cat": "nunyo",
+      "title": "포근한 토끼 카페의 행복한 하루",
+      "src": "images/nunyo/main-v12/10.webp",
+      "memo": "따뜻한 카페 한구석, 토끼들과 함께라 더 포근하게.",
+      "date": "2026.09.15"
+    },
+    {
+      "cat": "seolhong",
+      "title": "매화 주막의 달빛 한 잔",
+      "src": "images/seolhong/main-v12/01.webp",
+      "memo": "매화 향과 달빛 사이, 설홍이 건네는 느긋한 한 잔.",
+      "date": "2026.09.15"
+    },
+    {
+      "cat": "seolhong",
+      "title": "매화를 쫒는 명탐정 설홍",
+      "src": "images/seolhong/main-v12/02.webp",
+      "memo": "갓을 눌러쓰고, 오늘의 단서는 매화 끝에서.",
+      "date": "2026.09.15"
+    },
+    {
+      "cat": "yeowuyeon",
+      "title": "벚꽃 곁 여우 소녀의 공부 시간",
+      "src": "images/yeowuyeon/main-v12/01.webp",
+      "memo": "꽃잎이 흩날려도 오늘만큼은 모범생 모드.",
+      "date": "2026.09.15"
+    },
+    {
+      "cat": "yeowuyeon",
+      "title": "벚꽃 아래 고양이와 여우소녀",
+      "src": "images/yeowuyeon/main-v12/02.webp",
+      "memo": "벚꽃 아래서 만난 작은 친구와 잠깐의 봄 산책.",
+      "date": "2026.09.15"
+    },
+    {
+      "cat": "yeowuyeon",
+      "title": "벚꽃 아래 여우 소녀의 셀카",
+      "src": "images/yeowuyeon/main-v12/03.webp",
+      "memo": "봄빛이 좋은 날, 짱돌에게 남기는 한 장.",
+      "date": "2026.09.15"
+    },
+    {
+      "cat": "yeowuyeon",
+      "title": "복슬복슬 꼬리 손질 시간",
+      "src": "images/yeowuyeon/main-v12/04.webp",
+      "memo": "풍성한 꼬리는 그냥 만들어지는 게 아니니까.",
+      "date": "2026.09.15"
+    },
+    {
+      "cat": "yeowuyeon",
+      "title": "비 오는 날의 여우 소녀",
+      "src": "images/yeowuyeon/main-v12/05.webp",
+      "memo": "빗소리를 들으며 천천히 걷는 조금 다른 산책.",
+      "date": "2026.09.15"
+    },
+    {
+      "cat": "yeowuyeon",
+      "title": "심야 라면과 여우소녀의 작은 행복",
+      "src": "images/yeowuyeon/main-v12/06.webp",
+      "memo": "늦은 밤 라면 한 그릇이면 충분히 행복한 순간.",
+      "date": "2026.09.15"
+    },
+    {
+      "cat": "nano",
+      "title": "PC방의 나노 승리를 위한 한판",
+      "src": "images/nano/main-v12/01.webp",
+      "memo": "평소의 여유는 잠시 접어두고, 이번 판은 반드시 이긴다.",
+      "date": "2026.09.15"
+    },
+    {
+      "cat": "nano",
+      "title": "밤에 몰래 편의점에서 아이스크림 사먹는 나노",
+      "src": "images/nano/main-v12/02.webp",
+      "memo": "한밤중의 작은 일탈. 오늘의 유혹은 아이스크림.",
+      "date": "2026.09.15"
+    },
+    {
+      "cat": "nano",
+      "title": "서큐버스 나노는 야시장이 신기하다",
+      "src": "images/nano/main-v12/03.webp",
+      "memo": "인간들의 밤은 생각보다 반짝이고, 먹을 것도 많다.",
+      "date": "2026.09.15"
+    },
+    {
+      "cat": "nano",
+      "title": "할로윈 축제의 나노와 악마 코스튬 인간들",
+      "src": "images/nano/main-v12/04.webp",
+      "memo": "진짜 악마 앞에서 악마 분장이라니. 나노는 조금 어이없다.",
+      "date": "2026.09.15"
+    },
+    {
+      "cat": "ruchel",
+      "title": "루첼의 핑크빛 스트리머 방 셀카",
+      "src": "images/ruchel/main-v12/01.webp",
+      "memo": "방송 전 잠깐, 골골이들에게 남겨두는 핑크빛 한 장.",
+      "date": "2026.09.15"
     }
   ],
-  "version": 11,
+  "version": 12,
   "updated": "2026.09.15",
   "categories": {
     "ruchel": {
@@ -280,13 +469,21 @@
     }
   },
   "active_members": [
+    "eri",
+    "nunyo",
     "yeowuyeon",
+    "seolhong",
     "nano",
     "ruchel"
   ],
   "member_heroes": {
     "yeowuyeon": "images/yeowuyeon/hero.webp",
     "nano": "images/nano/hero-v11.webp",
-    "ruchel": "images/ruchel/ruchel-hero.webp"
-  }
+    "ruchel": "images/ruchel/ruchel-hero.webp",
+    "eri": "images/eri/hero-v12.webp",
+    "nunyo": "images/nunyo/hero-v12.webp",
+    "seolhong": "images/seolhong/hero-v12.webp",
+    "rabu": "images/rabu/hero-v12.webp"
+  },
+  "special_archive": "rabu"
 }
