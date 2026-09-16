@@ -241,19 +241,19 @@
       "date": "2026.09.15"
     },
     {
-      "cat": "eri",
+      "cat": "species",
       "title": "붉은 달 아래 고딕 뱀파이어 수녀",
       "src": "images/eri/main-v12/01.webp",
       "memo": "붉은 달 아래, 성스러움과 위험함이 묘하게 겹친 밤.",
-      "date": "2026.09.15"
+      "date": "2026.09.15",
+      "owner": "eri"
     },
     {
-      "cat": "species",
+      "cat": "eri",
       "title": "서큐버스 날개 연습 교실",
       "src": "images/eri/main-v12/02.webp",
       "memo": "작은 날갯짓부터 천천히. 서큐버스로서의 연습도 애리답게.",
-      "date": "2026.09.15",
-      "owner": "eri"
+      "date": "2026.09.15"
     },
     {
       "cat": "eri",
@@ -583,7 +583,7 @@
       "date": "2026.09.16"
     }
   ],
-  "version": 13,
+  "version": 14,
   "updated": "2026.09.16",
   "categories": {
     "ruchel": {
