@@ -248,11 +248,12 @@
       "date": "2026.09.15"
     },
     {
-      "cat": "eri",
-      "title": "붉은 달 아래 날개 연습 교실",
+      "cat": "species",
+      "title": "서큐버스 날개 연습 교실",
       "src": "images/eri/main-v12/02.webp",
-      "memo": "아직 서툰 날갯짓도 애리답게 우아하게.",
-      "date": "2026.09.15"
+      "memo": "작은 날갯짓부터 천천히. 서큐버스로서의 연습도 애리답게.",
+      "date": "2026.09.15",
+      "owner": "eri"
     },
     {
       "cat": "eri",
@@ -428,10 +429,162 @@
       "src": "images/ruchel/main-v12/01.webp",
       "memo": "방송 전 잠깐, 골골이들에게 남겨두는 핑크빛 한 장.",
       "date": "2026.09.15"
+    },
+    {
+      "cat": "fantasy",
+      "owner": "nano",
+      "title": "나노의 몽환적인 꿈의 도서관",
+      "src": "images/nano/fantasy-v13/01.webp",
+      "memo": "책장을 넘길수록 현실보다 달콤한 꿈이 가까워진다.",
+      "date": "2026.09.16"
+    },
+    {
+      "cat": "fantasy",
+      "owner": "nano",
+      "title": "붉은 달 아래 피코 군단과 나노",
+      "src": "images/nano/fantasy-v13/02.webp",
+      "memo": "붉은 달이 뜬 밤, 오늘은 피코 군단과 함께.",
+      "date": "2026.09.16"
+    },
+    {
+      "cat": "fantasy",
+      "owner": "nano",
+      "title": "천국에 온 귀여운 서큐버스",
+      "src": "images/nano/fantasy-v13/03.webp",
+      "memo": "천국까지 와버린 서큐버스. 그런데 생각보다 꽤 마음에 든다.",
+      "date": "2026.09.16"
+    },
+    {
+      "cat": "seolhong",
+      "owner": "seolhong",
+      "title": "달빛 아래 설홍의 매화 정령(본모습)",
+      "src": "images/seolhong/main-v13/01.webp",
+      "memo": "달빛과 매화가 겹치는 밤, 가장 설홍다운 모습으로.",
+      "date": "2026.09.16"
+    },
+    {
+      "cat": "seolhong",
+      "owner": "seolhong",
+      "title": "매화가 피는 한옥 바의 밤",
+      "src": "images/seolhong/main-v13/02.webp",
+      "memo": "매화 향이 번지는 한옥 바에서 천천히 깊어지는 밤.",
+      "date": "2026.09.16"
+    },
+    {
+      "cat": "seolhong",
+      "owner": "seolhong",
+      "title": "설홍, 벚꽃 아래 여검객",
+      "src": "images/seolhong/main-v13/03.webp",
+      "memo": "꽃잎 사이를 걷는 여검객. 봄날에도 기품은 그대로.",
+      "date": "2026.09.16"
+    },
+    {
+      "cat": "fantasy",
+      "owner": "seolhong",
+      "title": "달빛 아래 매화 검성",
+      "src": "images/seolhong/fantasy-v13/01.webp",
+      "memo": "달빛 아래 한 번의 검격, 흩날리는 건 매화뿐.",
+      "date": "2026.09.16"
+    },
+    {
+      "cat": "fantasy",
+      "owner": "seolhong",
+      "title": "매화 마법사의 손길",
+      "src": "images/seolhong/fantasy-v13/02.webp",
+      "memo": "손끝에서 피어나는 마법은 언제나 매화의 모양을 닮았다.",
+      "date": "2026.09.16"
+    },
+    {
+      "cat": "fantasy",
+      "owner": "seolhong",
+      "title": "매화 정령의 엘프 숲 초대",
+      "src": "images/seolhong/fantasy-v13/03.webp",
+      "memo": "낯선 숲에서도 매화 향을 따라가면 설홍을 만날 수 있다.",
+      "date": "2026.09.16"
+    },
+    {
+      "cat": "fantasy",
+      "owner": "seolhong",
+      "title": "매화나무의 영원한 수호자 설홍",
+      "src": "images/seolhong/fantasy-v13/04.webp",
+      "memo": "오랜 세월 한자리에서 봄의 기억을 지켜온 수호자.",
+      "date": "2026.09.16"
+    },
+    {
+      "cat": "fantasy",
+      "owner": "seolhong",
+      "title": "매화선녀 설홍의 천계 연회",
+      "src": "images/seolhong/fantasy-v13/05.webp",
+      "memo": "구름 위 연회에도 은은한 매화 향을 남기는 선녀.",
+      "date": "2026.09.16"
+    },
+    {
+      "cat": "fantasy",
+      "owner": "seolhong",
+      "title": "설홍 몰락한 용의 매화 선율",
+      "src": "images/seolhong/fantasy-v13/06.webp",
+      "memo": "몰락한 용에게 닿은 해금 한 소절, 그리고 다시 피는 매화.",
+      "date": "2026.09.16"
+    },
+    {
+      "cat": "fantasy",
+      "owner": "seolhong",
+      "title": "설홍 폐허에 핀 마지막 매화",
+      "src": "images/seolhong/fantasy-v13/07.webp",
+      "memo": "모든 것이 무너진 자리에도 마지막 매화는 피어 있었다.",
+      "date": "2026.09.16"
+    },
+    {
+      "cat": "fantasy",
+      "owner": "seolhong",
+      "title": "설홍, 매화의 기사단장",
+      "src": "images/seolhong/fantasy-v13/08.webp",
+      "memo": "검 끝에 매화를 품은 기사단의 선두.",
+      "date": "2026.09.16"
+    },
+    {
+      "cat": "fantasy",
+      "owner": "seolhong",
+      "title": "설홍, 영원의 매화 뱀파이어",
+      "src": "images/seolhong/fantasy-v13/09.webp",
+      "memo": "영원한 밤 속에서도 시들지 않는 한 송이 매화.",
+      "date": "2026.09.16"
+    },
+    {
+      "cat": "fantasy",
+      "owner": "seolhong",
+      "title": "설홍, 영원한 매화나무의 수호자",
+      "src": "images/seolhong/fantasy-v13/10.webp",
+      "memo": "계절이 지나도 그 나무 곁을 지키는 오래된 약속.",
+      "date": "2026.09.16"
+    },
+    {
+      "cat": "fantasy",
+      "owner": "seolhong",
+      "title": "설홍, 천 년의 봄이 피어나다",
+      "src": "images/seolhong/fantasy-v13/11.webp",
+      "memo": "천 년을 기다린 봄이 설홍의 곁에서 다시 피어난다.",
+      "date": "2026.09.16"
+    },
+    {
+      "cat": "fantasy",
+      "owner": "seolhong",
+      "title": "설홍과 매화룡의 계약자",
+      "src": "images/seolhong/fantasy-v13/12.webp",
+      "memo": "매화와 용이 맺은 계약, 그 중심에 선 설홍.",
+      "date": "2026.09.16"
+    },
+    {
+      "cat": "fantasy",
+      "owner": "seolhong",
+      "title": "설홍의 백귀야행 연주회",
+      "src": "images/seolhong/fantasy-v13/13.webp",
+      "memo": "백귀가 모인 밤에도 해금 선율만큼은 맑게 울려 퍼진다.",
+      "date": "2026.09.16"
     }
   ],
-  "version": 12,
-  "updated": "2026.09.15",
+  "version": 13,
+  "updated": "2026.09.16",
   "categories": {
     "ruchel": {
       "count": 9,
